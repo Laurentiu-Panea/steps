@@ -5,6 +5,7 @@ const messages = [
   "Apply for jobs 💼",
   "Invest your new income 🤑",
 ];
+const x = 0;
 
 export default function App() {
   return (
